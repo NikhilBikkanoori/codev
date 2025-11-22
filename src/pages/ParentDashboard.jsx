@@ -366,7 +366,7 @@ const ParentDashboard = () => {
               <tbody>
                 <tr>
                   <td>Tuition Fees</td>
-                  <td>$10000</td>
+                  <td>$100</td>
                   <td style={{ color: 'var(--success)' }}>$20,000</td>
                   <td style={{ color: 'var(--danger)' }}>$30,000</td>
                 </tr>
