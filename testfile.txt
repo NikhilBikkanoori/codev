@@ -1,1 +1,2 @@
 "Checking for git"
+checking for git 2
